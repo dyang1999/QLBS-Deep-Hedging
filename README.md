@@ -15,15 +15,18 @@ Python library for QLBS learner
 
 ## Notebooks 
 
-```Run QLBS_master.ipynb``` -> QLBS with transaction costs \\
-```Run historical_crypto_data_qlbs.ipynb``` -> running QLBS on historical Crypto options data from Deribit \\
+```Run QLBS_master.ipynb``` -> QLBS with transaction costs 
+
+```Run historical_crypto_data_qlbs.ipynb``` -> running QLBS on historical Crypto options data from Deribit 
+
 ```Run QLBS_std.ipynb``` -> QLBS with std reward function and smoothening
 
 # Deep Hedging (DH) with simple NN and RNN
 Python library for Deep Hedging
 - Incoporates **transaction costs** into the Deep learner
 
-```Run NN_options_master.ipynb.ipynb``` -> Simple NN and RNN with transaction costs \\
+```Run NN_options_master.ipynb.ipynb``` -> Simple NN and RNN with transaction costs 
+
 ```NN_model.py``` -> NN and RNN model architecture
 
 ## References
