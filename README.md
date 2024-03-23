@@ -11,7 +11,7 @@ The library uses **Python 3** with the following modules:
 # Q-Learning Black Scholes (QLBS)
 Python library for QLBS learner 
 - Incoporates **transaction costs** into the Q-learner 
-- A alternative Q-learner reward function with sqaure roote of the variance terms (standard deviation) + learning factor
+- Alternative Q-learner reward function with sqaure root of the variance terms (standard deviation) + learning factor
 
 ## Notebooks 
 
