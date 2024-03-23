@@ -19,7 +19,7 @@ Python library for QLBS learner
 
 ```Run historical_crypto_data_qlbs.ipynb``` -> running QLBS on historical Crypto options data from Deribit 
 
-```Run QLBS_std.ipynb``` -> QLBS with std reward function and smoothening
+```Run QLBS_std.ipynb``` -> QLBS with std reward function and smoothing
 
 # Deep Hedging (DH) with simple NN and RNN
 Python library for Deep Hedging
